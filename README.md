@@ -75,6 +75,7 @@ Goal: Compare ALS performance against baseline
 - Absence of interaction is treated as unknown (implicit feedback assumption)
 
 ---
+
 ## Future Improvements
 
 - Time-based train/test split
